@@ -1,0 +1,1 @@
+import{_ as n}from"./EmptyState-CP5gc49_.js";import{i as t,k as i,e as o,o as r}from"./index-CTv9ROnk.js";const c={__name:"AdminForbiddenView",setup(s){const e=o();return(m,a)=>(r(),t(n,{title:"Akses tidak diizinkan.",text:"Halaman ini hanya untuk admin.","action-label":"Kembali ke dashboard",onAction:a[0]||(a[0]=u=>i(e).push("/admin"))}))}};export{c as default};
